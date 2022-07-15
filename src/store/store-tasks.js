@@ -3,12 +3,12 @@ import { uid } from 'quasar'
 
 const state = {
 	tasks: {
-		'ID1': {
-			name: 'Create task',
-			completed: false,
-			dueDate: '2019/05/12',
-			dueTime: '18:30'
-		},
+// 		'ID1': {
+// 			name: 'Create task',
+// 			completed: false,
+// 			dueDate: '2019/05/12',
+// 			dueTime: '18:30'
+// 		},
 	},
 	search: '',
 	sort: 'name'
