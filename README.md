@@ -1,4 +1,4 @@
-# Task Traker
+# Task Tracker
 
 A Project made with Vue.js,Vuex, Vue router and Quasar.
  
