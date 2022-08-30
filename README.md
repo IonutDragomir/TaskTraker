@@ -7,4 +7,4 @@ In this project you can add new tasks for current day, or upcoming events. You c
 The app stores data usin Vuex.
 The app has a routing sistem which alows it to have a main page, to display all tasks, and a settings page, where you can edit the way tasks are displayed.
 
-Live view at: https://playful-pie-d15ce2.netlify.app/#/
+Live view at: https://vue-quasar-task-tracker.netlify.app
